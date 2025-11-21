@@ -3,3 +3,4 @@ content = content.replace(search_text, replace_text)
                             f.write(content)
                         msg = f"✅ Đã sửa file: {full_path}"
                         print(msg)
+dfhjf
